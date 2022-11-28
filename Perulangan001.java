@@ -30,8 +30,6 @@ public class Perulangan001 {
             
             System.out.println("");
             System.out.println("");
-        }
-        
-        
+        }        
     }
 }
